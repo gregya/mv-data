@@ -1,4 +1,6 @@
 {
 	"firstName": "gre",
-	"lastName": "gyya"
+	"lastName": {
+		"normalName": "gyya"
+	}
 }
